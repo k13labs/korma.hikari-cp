@@ -1,4 +1,4 @@
-# korma.hikari-cp [![Travis CI Build](https://travis-ci.org/k13labs/korma.hikari-cp.svg?branch=master)(https://travis-ci.org/k13labs/korma.hikari-cp)]
+# korma.hikari-cp [![Travis CI Build](https://travis-ci.org/k13labs/korma.hikari-cp.svg?branch=master)](https://travis-ci.org/k13labs/korma.hikari-cp)
 
 Experimental HikariCP support for SQL Korma.
 
