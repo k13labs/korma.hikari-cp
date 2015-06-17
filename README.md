@@ -1,6 +1,6 @@
 # korma.hikari-cp
 
-A Clojure library designed to ... well, that part is up to you.
+Experimental HikariCP support for SQL Korma.
 
 ## Usage
 
