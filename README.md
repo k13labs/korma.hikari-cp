@@ -2,8 +2,6 @@
 
 Experimental HikariCP support for SQL Korma.
 
-[![Clojars Project](http://clojars.org/korma.hikari-cp/latest-version.svg)](http://clojars.org/korma.hikari-cp)
-
 ## Getting started
 
 Simply add korma.hikari-cp as a dependency to your lein project:
