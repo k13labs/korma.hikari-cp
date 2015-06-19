@@ -7,4 +7,5 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [com.zaxxer/HikariCP-java6 "2.3.8"]]
-  :profiles {:test {:dependencies [[com.h2database/h2 "1.4.187"]]}})
+  :profiles {:test {:dependencies [[com.h2database/h2 "1.4.187"]
+                                   [korma "0.4.2"]]}})
