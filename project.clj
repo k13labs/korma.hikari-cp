@@ -1,4 +1,4 @@
-(defproject korma.hikari-cp "0.1.0"
+(defproject korma.hikari-cp "0.2.0-SNAPSHOT"
   :description "HikariCP support for SQL Korma"
   :url "https://github.com/k13labs/korma.hikari-cp"
   :scm {:name "git"
